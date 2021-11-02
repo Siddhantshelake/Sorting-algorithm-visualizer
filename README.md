@@ -54,18 +54,22 @@ Go to the project directory
 
 ## Screenshots
 
-unsorted array of elements 
+# unsorted array of elements 
+
 ![alt text](https://github.com/Siddhantshelake/sorting-algorithm-visualizer/blob/master/screenshots/unsorted.PNG)
 
 
-sorted array of elements 
+# sorted array of elements  
+
 ![alt text](https://github.com/Siddhantshelake/sorting-algorithm-visualizer/blob/master/screenshots/sorted.PNG)
 
 
 ## Demo
+
 ![](sorting.gif)
 
 
 ## For Web Version 
 
 visit 
+ https://visualize-sorting-siddhant.herokuapp.com/home.html
